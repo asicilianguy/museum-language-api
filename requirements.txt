@@ -1,4 +1,7 @@
-fastapi==0.104.1
-pydantic==2.5.0
-typing-extensions==4.8.0
-scikit-learn==1.3.2
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn
+pydantic
+typing-extensions
